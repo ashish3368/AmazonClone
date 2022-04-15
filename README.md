@@ -1,2 +1,2 @@
 # AmazonClone
-new repo
+A simple amazon clone website using nodejs
